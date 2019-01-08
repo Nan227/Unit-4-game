@@ -22,7 +22,7 @@ $('#losses').text(losses);
 
 // Reset game
 function reset(){
-      Random=Math.floor(Math.random()*120+19);
+      random=Math.floor(Math.random()*102+19);
       console.log(random);
       $('#scoreToMatch').text(random);
       num1= Math.floor(Math.random()*12+1);
