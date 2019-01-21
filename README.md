@@ -8,6 +8,7 @@ In this assignment, we were required to create a Crystals Collector game. This g
 
 
 **Crystal Collector**
+
 ![](assets/images/crystals-collector-game.png)
 
 
