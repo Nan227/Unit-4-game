@@ -2,13 +2,10 @@
 
 This is the fourth assignment for Rutgers Coding Bootcamp Delivered by Trilogy Education Services, Inc.
 
-<<<<<<< HEAD
-In this assignment, we were required to create a Crystals Collector game. This game uses HTML, css and jQuery library to run the game
-=======
 # Details about this project
 
 In this assignment, we were required to create a Crystals Collector game. This game uses HTML, css, and jQuery library to run the game.
->>>>>>> 7d51225ffaea1623e3e53b80c2d2ef91c3a03c9d
+
 
 **Crystal Collector**
 ![](assets/images/crystals-collector-game.png)
@@ -29,7 +26,4 @@ Click on the following link to preview the completed assignment.
 * HTML5
 * CSS3
 * JavaScript 
-<<<<<<< HEAD
 
-=======
->>>>>>> 7d51225ffaea1623e3e53b80c2d2ef91c3a03c9d
