@@ -11,7 +11,8 @@ In this assignment, we were required to create a Crystals Collector game. This g
 >>>>>>> 7d51225ffaea1623e3e53b80c2d2ef91c3a03c9d
 
 **Crystal Collector**
-<img src="assets/images/crystals-collector-game.png" width=300px>
+![](assets/images/crystals-collector-game.png)
+
 
 
 # Instructions:
